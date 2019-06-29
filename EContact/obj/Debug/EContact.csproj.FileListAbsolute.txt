@@ -1,0 +1,10 @@
+C:\Users\dimas\source\repos\EContact\EContact\bin\Debug\EContact.exe.config
+C:\Users\dimas\source\repos\EContact\EContact\bin\Debug\EContact.exe
+C:\Users\dimas\source\repos\EContact\EContact\bin\Debug\EContact.pdb
+C:\Users\dimas\source\repos\EContact\EContact\obj\Debug\EContact.csprojAssemblyReference.cache
+C:\Users\dimas\source\repos\EContact\EContact\obj\Debug\EContact.Econtact.resources
+C:\Users\dimas\source\repos\EContact\EContact\obj\Debug\EContact.Properties.Resources.resources
+C:\Users\dimas\source\repos\EContact\EContact\obj\Debug\EContact.csproj.GenerateResource.cache
+C:\Users\dimas\source\repos\EContact\EContact\obj\Debug\EContact.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\EContact\EContact\obj\Debug\EContact.exe
+C:\Users\dimas\source\repos\EContact\EContact\obj\Debug\EContact.pdb
